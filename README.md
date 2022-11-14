@@ -1,2 +1,4 @@
 # readWord
 python提取word文档
+python根据字体大小来划分层次提取出word文档里面的信息
+运行main.py之前记得按照requirement.txt下载对应的第三方库
